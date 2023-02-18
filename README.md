@@ -1,6 +1,4 @@
-### <Olá! Eu sou o Felipe, sou estudante de programação e tecnologias!🚀💻 >
-
-<!
+###<Olá! Eu sou o Felipe, sou estudante de programação e tecnologias!🚀💻 >
 
 - 📚 Estou estudando Front-end Back-end
 - 💡 A informática está interligada ao mundo sobre as reações intergalaxias!💡
@@ -8,5 +6,5 @@
 - 📫 Conta-me: gael.ferreira505@gmail.com
 - 😄 Pronouns: Ele/ Dele
 - ⚡Fato Sobre Mim : Eu Amo Star Wars
--->
+
 
