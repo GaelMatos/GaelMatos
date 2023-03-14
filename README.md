@@ -14,28 +14,26 @@ app.listen(3000, () =>{
 })
 ```
 
-## **Linguagens e Ferramentas:**  
-
 <div style="display: inline_block"><br>
-  <img src="https://github.com/gaelcode/gaelcode/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  
-  <img src="https://github.com/gaelcode/gaelcode/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
   
   
   
-  <img src="https://github.com/gaelcode/gael.codes/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   
-  
-  <img src="https://github.com/gael.code/gael.code/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-  
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
-  <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  
+ 
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
+  
+ 
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div><br>
-
-
-
-
 
 ## **Minhas Redes:**
 
@@ -53,5 +51,5 @@ app.listen(3000, () =>{
 <br>
 
 
-  ![Snake animation](https://github.com/gaelcode/gaelcode/blob/output/github-contribution-grid-snake.svg)
+ 
 
