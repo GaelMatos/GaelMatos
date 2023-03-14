@@ -17,16 +17,16 @@ app.listen(3000, () =>{
 ## **Linguagens e Ferramentas:**  
 
 <div style="display: inline_block"><br>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/gaelcode/gaelcode/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
   
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
-  
-  
-  
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/gaelcode/gaelcode/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   
   
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
+  
+  <img src="https://github.com/gaelcode/gael.codes/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  
+  
+  <img src="https://github.com/gael.code/gael.code/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
   
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
@@ -47,11 +47,11 @@ app.listen(3000, () =>{
   <a target="_blank" href="https://www.instagram.com/ei_poeta/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target="_blank" href="mailto:gael.matos505@gmail.com" alt="Gmail">
+   <a target="_blank" href="mailto:gael.ferreira505@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>
 
 
-  ![Snake animation](https://github.com/NatanMoura085/NatanMoura085/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gaelcode/gaelcode/blob/output/github-contribution-grid-snake.svg)
 
